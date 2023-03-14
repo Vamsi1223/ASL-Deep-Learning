@@ -10,6 +10,11 @@ become easily accessible for about 100 languages, sign language is still an area
 # Technologies used
 
 # About Architecture
+Using Transfer learning approach which is a popular approach in deep learning to get a foundation for the model coniguration.
+![image](https://user-images.githubusercontent.com/90703475/224968708-e2a7dd1b-879a-4033-beaf-55c6d05677ae.png)
+
+Mainly Focusing on MobileNetV2 Architecture.
+
 
 
 # About Dataset
