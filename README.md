@@ -23,7 +23,7 @@ After this started implemented a Conv2D layer with a kernel size of 4, 64 filter
 Then used 9 Dense layers with 128 units, 256 units, 512 units, 1024 units, 2048 units, 512 units, 256 units, 128 units and all with ReLu activation function, and Glorot uniformm weight initialization.
 Then used MaxPooling2D layer with a pool size of (2,2) and strides of 2. After this to flatten the output of the previous layer to a vector used a Flatten layer to flatten the output of the previous layer to a vector. Finally a Dense layer which is output layer fully connected layer with softmax activation function.
 
-This is about the information of used Model and below is it's structure 
+This is about the information of the implemented model and let's see the architecture of the model 
 
 
 # About Dataset
