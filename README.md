@@ -16,11 +16,23 @@ To get foundation for the model configuration used a popular approach in deep le
 Mainly Focusing on MobileNetV2 Architecture.
 Model consists of a sequence of layers, with the input being a 2D image. The layers are:
 
+
 4 Dense layers with 1024 units, 512 units, 256 units, 128 units and all are with ReLU activation function, and Glorot uniform weight initialization. 
+
 Followed by, UpSampling2D layer with a size of (2, 2) and nearest-neighbor interpolation. Then followed by, Conv2D layer with a kernel size of 4, 64 filters, ReLU activation function, and VarianceScaling weight initialization.
-Then followed by, DepthwiseConv2D layer with a kernel size of 4, strides of (1,1), padding of 'valid', depth multiplier of 1, ReLU activation function, and Glorot uniform weight initialization. Then again used UpSampling2D layer with a size of (2, 2) and nearest-neighbor interpolation. Followed by, DepthwiseConv2D layer with a kernel size of 4, strides of (1,1), padding of 'valid', depth multiplier of 1, ReLU activation function, and Glorot uniform weight initialization.
+
+
+Then followed by, DepthwiseConv2D layer with a kernel size of 4, strides of (1,1), padding of 'valid', depth multiplier of 1, ReLU activation function, and Glorot uniform weight initialization. 
+
+Then again used UpSampling2D layer with a size of (2, 2) and nearest-neighbor interpolation. Followed by, DepthwiseConv2D layer with a kernel size of 4, strides of (1,1), padding of 'valid', depth multiplier of 1, ReLU activation function, and Glorot uniform weight initialization.
+
+
 After this started implemented a Conv2D layer with a kernel size of 4, 64 filters, ReLU activation function, and VarianceScaling weight initialization.
+
+
 Then used 9 Dense layers with 128 units, 256 units, 512 units, 1024 units, 2048 units, 512 units, 256 units, 128 units and all with ReLu activation function, and Glorot uniformm weight initialization.
+
+
 Then used MaxPooling2D layer with a pool size of (2,2) and strides of 2. After this to flatten the output of the previous layer to a vector used a Flatten layer to flatten the output of the previous layer to a vector. Finally a Dense layer which is output layer fully connected layer with softmax activation function.
 
 This is about the information of the implemented model and let's see the architecture of the model 
