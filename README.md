@@ -36,7 +36,8 @@ Then used 9 Dense layers with 128 units, 256 units, 512 units, 1024 units, 2048 
 Then used MaxPooling2D layer with a pool size of (2,2) and strides of 2. After this to flatten the output of the previous layer to a vector used a Flatten layer to flatten the output of the previous layer to a vector. Finally a Dense layer which is output layer fully connected layer with softmax activation function.
 
 This is about the information of the implemented model and below is the link to understand the architecture of the model:
-[https://drive.google.com/drive/folders/1yqUnaFYsKcFoPLdD8IWiH4iFO_vOaNr8]
+
+https://drive.google.com/file/d/1CUrEPzNtIzvz5VWQXDnFcDJ7T1q7RONg/view?usp=sharing
 
 # About Dataset
 We took dataset from kaggle which consists of 36 directories which includes alphabets and numbers from 0 to 9. In this project we used only alphabets for training model and each alphabet is oriented with 70 different styles. Which gives a sign of sufficient dataset for training model. Here are sample pics of dataset.
