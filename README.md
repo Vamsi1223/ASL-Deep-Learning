@@ -13,7 +13,7 @@ become easily accessible for about 100 languages, sign language is still an area
 To get foundation for the model configuration used a popular approach in deep learning called Transfer learning approach.
 ![image](https://user-images.githubusercontent.com/90703475/224968708-e2a7dd1b-879a-4033-beaf-55c6d05677ae.png)
 
-Mainly Focusing on MobileNetV2 Architecture.
+Mainly Focusing on ResNet50V2 Architecture.
 Model consists of a sequence of layers, with the input being a 2D image. The layers are:
 
 
@@ -35,7 +35,8 @@ Then used 9 Dense layers with 128 units, 256 units, 512 units, 1024 units, 2048 
 
 Then used MaxPooling2D layer with a pool size of (2,2) and strides of 2. After this to flatten the output of the previous layer to a vector used a Flatten layer to flatten the output of the previous layer to a vector. Finally a Dense layer which is output layer fully connected layer with softmax activation function.
 
-This is about the information of the implemented model and let's see the architecture of the model 
+This is about the information of the implemented model and below is the link to understand the architecture of the model:
+https://drive.google.com/drive/folders/1yqUnaFYsKcFoPLdD8IWiH4iFO_vOaNr8
 
 
 # About Dataset
