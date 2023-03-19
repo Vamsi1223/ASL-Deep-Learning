@@ -13,6 +13,7 @@ become easily accessible for about 100 languages, sign language is still an area
 ## About Architecture
 To get foundation for the model configuration used a popular approach in deep learning called Transfer learning approach.
 
+
 ![image](https://user-images.githubusercontent.com/90703475/224968708-e2a7dd1b-879a-4033-beaf-55c6d05677ae.png)
 
 
