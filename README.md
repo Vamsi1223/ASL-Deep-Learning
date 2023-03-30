@@ -39,7 +39,8 @@ Inception-v3 also includes several other features that contribute to its perform
 
 Overall, the Inception-v3 architecture has been shown to achieve state-of-the-art performance on a variety of image recognition tasks, including the ImageNet Large Scale Visual Recognition Challenge.
 
-The model architecture is as follows:
+The following picture shows the last layers of InceptionV3 model:
+![image](https://user-images.githubusercontent.com/90703475/228722811-647f7f73-ec7d-466f-ade8-4408d791bf0a.png)
 
 
 
