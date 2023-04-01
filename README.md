@@ -63,9 +63,6 @@ The following picture shows the last layers of InceptionV3 model:
 
 ## Dataset
 
-
-## Dataset
-
 We trained our model by using dataset which is available in kaggle.
 
 It consists of 29 classes in which 26 classes are for A - Z and remaining are space, delete and nothing which are very useful for Real time detection.
