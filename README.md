@@ -61,8 +61,6 @@ The following picture shows the last layers of InceptionV3 model:
 <img align="left" alt="Google Colab" width="26px" src="https://3.bp.blogspot.com/-apoBeWFycKQ/XhKB8fEprwI/AAAAAAAACM4/Sl76yzNSNYwlShIBrheDAum8L9qRtWNdgCLcBGAsYHQ/s1600/colab.png" style="padding-right:10px;" />
 
 
-
-
 ## Dataset
 
 We trained our model by using dataset which is available in kaggle.
