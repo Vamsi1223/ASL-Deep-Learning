@@ -54,11 +54,11 @@ The following picture shows the last layers of InceptionV3 model:
 
 ## Technologies used
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Tensorflow" width="26px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Keras" width="26px" src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Google Colab" width="26px" src="https://3.bp.blogspot.com/-apoBeWFycKQ/XhKB8fEprwI/AAAAAAAACM4/Sl76yzNSNYwlShIBrheDAum8L9qRtWNdgCLcBGAsYHQ/s1600/colab.png" style="padding-right:10px;" />
+<img align="left" alt="Google Colab" width="26px" src="https://3.bp.blogspot.com/-apoBeWFycKQ/XhKB8fEprwI/AAAAAAAACM4/Sl76yzNSNYwlShIBrheDAum8L9qRtWNdgCLcBGAsYHQ/s1600/colab.png" style="padding-right:10px;" />]
 
 
 ## Dataset
