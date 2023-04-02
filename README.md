@@ -101,6 +101,12 @@ Loss plot is as follows:
 
 
 
+## Tested Sample Images in Real Time
+
+![image](https://user-images.githubusercontent.com/90703475/229364060-c2b7b791-0b54-4963-a6fb-9df04a0b6222.png)
+![image](https://user-images.githubusercontent.com/90703475/229364088-6e8550db-6f40-4f12-a2e3-277e4020eff8.png)
+
+
 
 
 ## Technologies used
