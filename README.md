@@ -9,7 +9,7 @@ In this research, we propose to investigate the use of deep learning features fo
 ![image](https://user-images.githubusercontent.com/90703475/229161538-55a86f9b-ac9f-4f1b-b6e4-76351698cd34.png)
 
 
-The above picture gives the information about American sign language Signs. ASL is a complete and organized visual language that is expressed by employing both manual and nonmanual features.
+The above picture gives the information about American Sign Language. ASL is a complete and organized visual language that is expressed by employing both manual and nonmanual features.
 
 
 
@@ -52,13 +52,11 @@ The following picture shows the last layers of InceptionV3 model:
 
 
 
-## Technologies used
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Tensorflow" width="26px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Keras" width="26px" src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Google Colab" width="26px" src="https://3.bp.blogspot.com/-apoBeWFycKQ/XhKB8fEprwI/AAAAAAAACM4/Sl76yzNSNYwlShIBrheDAum8L9qRtWNdgCLcBGAsYHQ/s1600/colab.png" style="padding-right:10px;" />]
+
+
+
+
 
 
 ## Dataset
@@ -101,6 +99,22 @@ Loss plot is as follows:
 ![image](https://user-images.githubusercontent.com/90703475/227776787-8dc18c60-b379-4b77-88fe-baeb294b99da.png)
 
 
+
+
+
+
+## Technologies used
+1. [Visual Studio Code](https://code.visualstudio.com/)
+2. [Python](https://www.python.org/)
+3. [Tensorflow](https://www.tensorflow.org/)
+4. [Keras](https://keras.io/)
+5. [Google Colab](https://colab.research.google.com/)
+
+
+
+
+
+
 ## References
 
 1) Ira Cohen, Nicu Sebe, Ashutosh Garg, Lawrence S, Chen and Thomas S. Huang (2003, February). Facial expression recognition from video sequences: temporal and static modeling. Computer Vision and Image Undertaking 91.
@@ -116,7 +130,12 @@ et al. Imagenet large scale visual recognition challenge.2014.
 
 
 ## Project Mentor
+[Sai Varun Teja K](varun264)
 
 
 ## Project Mentees
+1. [M Vamsi Krishna](https://github.com/Vamsi1223)
+2. [B Vivek Krishna](https://github.com/vivek0153)
+3. [Aryaman Surya](Arya5290)
+4. [Shreya Jindrali](shreyajindrali)
 
